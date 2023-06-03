@@ -1,0 +1,206 @@
+{
+  "What would you like to know today?": {
+    "I want to know more about the program": {
+      "Which program do you want to know?": {
+        "Artificial intelligence" : [
+          "This programme equips students with the knowledge and skills to design and develop computer systems that emulate and exhibit human intelligence. Students will learn the theoretical and practical aspects of Robotics, Cognitive Science, Image Processing, Natural Language Processing, Machine Learning, Artificial Neural Network, Fuzzy Logic, Expert Systems and Logic Programming. Students will apply their skills and knowledge through the development of real world applications in their final year projects."
+        ],
+        "Software engineering" : [
+          "This programme offers a comprehensive look into the world of software engineering by providing the students with not only the theoretical and technical knowledge but the skills needed in various other related aspects of software engineering. The programme emphasizes a strong underlying of Software Engineering principles and concepts through object-oriented modeling, software design and architecture, human-computer interaction and software quality."
+        ],
+        "Information system" : [
+          "This programme aims to equip graduates with the ability to apply the concepts and principles of Information Systems to support the design, development and management of Information Systems. The graduates will be able to design and develop Information Systems to suit the organizational needs using highest quality technology-based services, with high ethical values in the context of professional practice of computing."
+        ],
+        "Computer system and network" : [
+          "The purpose of this programme is to produce graduates who understand and able to apply the knowledge in networking and the theory of computer systems. The graduates will have the ability to apply critical thinking skills and advanced scientific techniques in solving computer-based problems in line with the rapidly changing computer systems and technology."
+        ],
+        "Data science" : [
+          "This programme aims to produce excellent graduates who are able to apply the knowledge gained in the field of Computer Science and Data Science and apply scientific techniques to solve computer-based problems, as well as having entrepreneurship mindset.",
+          "The graduates will be able to conduct data-driven investigations by accessing, assessing and analyzing data sets to gain useful information, to be competent in using suitable tools and technologies in building data model capable of prediction and be able to solve problems that involve disparate datasets from any domain and develop data products.",
+          "For this program, UM has signed the MoA with SAS to develop Data Scientists in Malaysia. Students completing specific elective courses offered by this program will receive a Joint Professional Certificate from SAS.",
+          "SAS also has endorsed the program in Data Analytics by providing tools and educational material support for learning and research purposes."
+        ]
+      }
+    },
+    "I want to know more about the schedule": {
+      "Undergraduate": {
+        "Timetable" : [
+          "The schedule will be arranged according to each person's course selection.",
+          "It is important to note that the schedule will be arranged in this format:",
+          "WID2001 - course code",
+          "(K) - K:lecture, T:tutorial, L: lab",
+          "RM - lecturer name"
+        ],
+        "Programme fee" : [
+          "Local: 9730 - 20000.20",
+          "International: 66570"
+        ],
+        "Handbook" : [
+          "2022/2023",
+          "https://fsktm.um.edu.my/fsktm/doc/undergraduate/Handbook/UGHB2022-23.pdf",
+          "2021/2022",  
+          "https://fsktm.um.edu.my/fsktm/doc/undergraduate/UGHB-BI-2122.pdf"
+        ],
+        "Rules & regulations" : [
+          "Rules",
+          "https://fsktm.um.edu.my/fsktm/doc/postgraduate/11%20UM%20(Doctoral%20Degree)%20Rules%202019%20(Pindaan%202021)%20-%20Dikemaskini%20LPU%2012.08.21%20(v2).pdf",
+          "Regulations",
+          "https://fsktm.um.edu.my/fsktm/doc/undergraduate/UM%20(Bachelor's%20Degree)%20Regulations%202019%20(Pindaan%202021)%20-%20Pengemaskinian%202021%20(08.09.2021).pdf"
+        ]
+      },
+      "Postgraduate": {
+        "Timetable" : [
+          "The schedule will be arranged according to each person's course selection.",
+          "It is important to note that the schedule will be arranged in this format:",
+          "WID2001 - course code",
+          "(K) - K:lecture, T:tutorial, L: lab",
+          "RM - lecturer name"
+        ],
+        "Programme fee" : [
+          "Local: 14,437 - 26,452.50",
+          "International: 35,555 - 54,000"
+        ],
+        "Handbook" : [
+          "2022/2023",
+          "https://ebook.um.edu.my/fsktm/handbook/postgraduate/UPDATE_NOV22/mobile/index.html",
+          "2021/2022",  
+          "https://ebook.um.edu.my/fsktm/handbook/PG_20212022/index.html#p=1"
+        ],
+        "Rules & regulations" : [
+          "https://fsktm.um.edu.my/fsktm/doc/postgraduate/11%20UM%20(Doctoral%20Degree)%20Rules%202019%20(Pindaan%202021)%20-%20Dikemaskini%20LPU%2012.08.21%20(v2).pdf"
+        ]
+      },
+      "Student affairs": {
+        "Overview" : [
+          "This welfare assistance for FSKTM students is considered for FSKTM students who have registered for a session with FSKTM Universiti Malaya and have active status, namely Undergraduate and Higher Degree students."
+        ],
+        "Mobility" : [
+          "Outbound Programme",
+          "Long term is a program that allows all Universiti Malaya students to spend one or two semesters at our partner universities abroad. This program is offered to both undergraduate and postgraduate (coursework mode) students. Students can apply by uploading the 'Recommendation Form' approved from Deputy Dean Student Affairs Office in the Google Form which is available on GEM website. https://gem.um.edu.my/outbound-long-term-home",
+          "Inbound Programme",
+          "The program is conducted for a minimum duration of one semester up to a maximum of one academic year (12 months). International students can choose from the courses offered from FCSIT.",
+          "Short-term Programme FCSIT",
+          "Short-Term Mobility Programme (Outbound & Inbound) is offered with our partner universities. It is a unique study abroad program that creates a memorable experience to our students. It provides an enriching experience in education and cultural exploration. It also provides an opportunity to widen the network among friends from different countries and learn about different cultures first hand.",
+          "Attachment",
+          "Mobility Attachment Program is a program whereby students from external institution attach with FCSIT, Universiti Malaya for a maximum duration up to 12 months. Students will be supervised by an appointed UM Lecturer(s) /Professor(s) during the attachment duration."
+        ],
+        "Student welfare" : [
+          "FSKTM Student Welfare Assistance is offered to FSKTM students (undergraduate and postgraduate students) who enroll in sessions with FSKTM University Malaya and in active status"
+        ]
+      },
+      "Research": {
+        "Overview" : [
+          "The College offers opportunities to discover more about research to help students conduct research. Our teams, led by Associate Professor Ts. Dr. Ainuddin Wahid Abdul Wahab, are dedicated to helping students with their research and solving problems."
+        ],
+        "Grant calendar" : [
+          "“Will be updated from time to time according to RMC announcement.”",
+          "https://fsktm.um.edu.my/fsktm/images/RESEARCH/Documents/grant2023.pdf"
+        ],
+        "Research Lab" : [
+          "The faculty has set-up these research labs for postgraduate research and consultation.",
+          "Empirical Software Engineering Lab",
+          "Network Analytics Lab",
+          "Mobile Ad Hoc Technology Lab",
+          "Mobile Cloud Computing Lab",
+          "Multimedia Lab",
+          "Software Requirement, Architecture and Reuse Engineering Lab",
+          "Cognitive Science Lab",
+          "Advanced Robotic Lab",
+          "I-Interact",
+          "Software Engineering Process Lab",
+          "Multimedia Signal Processing Lab",
+          "Informetric Lab",
+          "Data Science",
+          "Multimodal Interaction Lab",
+          "Security Lab",
+          "Knowledge Engineering Lab",
+          "AIED/ ES/ NLP/ Intelligent System Lab",
+          "Web Based Information System Lab",
+          "Hypermedia"
+        ],
+        "Partners" : [
+          "University of Glasgow",
+          "University of Science and Technology Yemen",
+          "Nanchang University",
+          "Universitat Passau, Germany",
+          "The National Institute of Information and Communications Technology of Japan",
+          "Shinshu University",
+          "Federal University of Technology, Minna, Nigeria",
+          "Association on Bumiputera Women Entrepreneur Network Malaysia (WENA)",
+          "Universiti Telekom Sdn Bhd of Multimedia Universiti, Cyberjaya",
+          "National Tsing Hua University",
+          "Institut Teknologi Brunei (ITB)",
+          "F-Secure Corporation (M) Sdn Bhd",
+          "Cyber Security Malaysia",
+          "Hewlet Packard (M) Sdn Bhd & Technology Education Leader Sdn Bhd",
+          "Academia Sinica, Taiwan",
+          "National Central University, Taiwan",
+          "Asia Euro University, Phnom Penh, Cambodia",
+          "Comsats Institute of Information Technology, Pakistan",
+          "University of Moratuwa, Sri Lanka",
+          "Malaysian Software Testing Board, Malaysia",
+          "Beihang University, China",
+          "Daejeon University, Korea"
+        ],
+        "Publication" : [
+          "ISI",
+          "A journal is indexed in the Web of Science is used to be called an ISI journal. ISI means the Institute for Scientific Information, which developed and produced the Science Citation Index (SCI), Social Sciences Citation Index (SSCI), and the Arts and Humanities Citation Index (AHCI). These data representing by year.",
+          "SCOPUS",
+          "Scopus is the largest abstract and citation database of peer-reviewed literature: scientific journals, books and conference proceedings. Delivering a comprehensive overview of the world's research output in the fields of science, technology, medicine, social sciences, and arts and humanities, Scopus features smart tools to track, analyze and visualize research.",
+          "Others",
+          "Consisting of various types of publications such as proceeding, article in digital, print media, Mass Media (Newspaper), letter, chapter in book, Editorial Material and Refereed Journal."
+        ],
+        "Research center" : [
+          "Centre for Mobile Cloud Computing Research (C4MCCR)",
+          "The C4MCCR is one of the most vibrant MCC research communities in the world, established in 2010 under the High Impact Research Grant, The Ministry of Higher Education, Malaysia. Its establishment was mainly to spur research on augmentation of the potential of mobile devices in delivering seamless mobile applications execution.",
+          "The main objective of this website is to serve as a medium between researchers and public, broadcasting information related to the laboratory activities and achievements.",
+          "Mobile Cloud Computing is a new interesting area of research. It has received a lot of attention from public and researchers due to its importance. The focuses of the research are three main components - Data Center, Wireless Technology and Smart Phones. Smart Phones are now being accepted in all walks of life and the marketshare always show plus sign. However, Smart Phones inherit limited computational power to run resource-intensive applications. The massive data output from Data Center seemed so incongruent to the processing power of Smart Phones. Thus, the main purpose of this group is to mitigate the incongruence of both entities so that unrestricted mobility and functionality can be delivered anywhere, anytime, from any device."
+        ],
+        "Research group" : [
+          "Internet of Things (IoT)",
+          "The rapid expansion of the Internet has resulted in the emergence of a well-known social development trend known as 'connectivity of everything'. The Internet of Things (IoT) is a network of computers, mechanical and digital machines, objects, animals, and even people that are all connected to each other and can share data over a network without the need for human or computer interaction.",
+          "Data Science",
+          "To build Malaysia's data science network and research profile, create partnerships through Malaysia's data science network and provide research opportunities among local/oversea grant applications and even industrial grant opportunities. Bring together Malaysian data science researchers to develop state-of-art solutions. Create a Real World Data Science Repository and let our researchers explore real Malaysian data sets.",
+          "Adaptive, Interactive and Immersive Multimedia",
+          "The Adaptive, Interactive and Immersive Multimedia (AIIM) research group conducts a range of research activities focused around building innovative and creative solutions to societal and industry challenges through multimedia technology.",
+          "Research and Innovation in Software Engineering (RISE)",
+          "The world is becoming more software-driven in the era of digital transformation. While artificial intelligence (AI), robotics, Internet of things (IoT) and other computing technologies are gaining much attention, transforming these technologies into practical and implementable software solutions remains a challenge to digital transformation. In Research and Innovation in Software Engineering (RISE) Research Group, our aim is two-pronged:",
+          "Overcome barriers to transforming various technologies into software solutions through software engineering research; and",
+          "Promote innovative and implementable software solutions for betterment of the world.",
+          "We embrace implementable research leveraging computing technologies to deliver valuable software solutions that are human-centric and driven by the needs of real users."
+        ]
+      }
+    },
+    "I want to know more about the faculty":{
+      "What do you want to know about the fsktm?" : {
+        "Introduction" : [
+          "The provision of computer facilities and services at the University of Malaya (UM) began in mid-1967, soon after the Computer Centre was officially formed in 1965. This also made the university one of the pioneers in computer usage in Malaysia. In December 1969, the Computer Centre took on an additional role of teaching and research of computer science and information technology. The Computer Centre Board was formed, comprising the Vice Chancellor (as Chairman), the Director of Computer Centre (as Secretary), and a representative from each Faculty, Institute, Centre of the university, and from the University Senate."
+        ],
+        "Location" : [
+          "Faculty of Computer Science & Information Technology, University of Malaya, 50603 Kuala Lumpur."
+        ],
+        "Number of graduates (2022)" : [
+          "Doctor: 479",
+          "Masters’s  degree: 2050",
+          "Bachelor’s degree 3943",
+          "Post-diploma: 179"
+        ],
+        "Research" : [
+          "Publication :",
+          "In web of science: 3180",
+          "In scopus: 4094",
+          "In research books & book chapters: 394",
+          "Others (case study, technical report or etc): 1300"
+        ],
+        "Intellectual property(IP):" : [
+          "Patent granted (national and international): 57",
+          "Patent filed (national and international): 21",
+          "Others (copyright, industrial design, trademark): 273"
+        ]
+      }
+
+    }
+
+  }
+  
+}

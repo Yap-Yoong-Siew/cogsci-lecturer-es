@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="{{url_for('static',filename='styles/developdb.css')}}"
+    />
+    <title>DB-ES | Develop a Database</title>
+    <script>
+      window.onload = function() {
+        var primacyEffectSlider = document.getElementById("primacyEffect");
+        var recencyEffectSlider = document.getElementById("recencyEffect");
+        var primacyEffectOutput = document.getElementById("primacyEffectOutput");
+        var recencyEffectOutput = document.getElementById("recencyEffectOutput");
+
+        primacyEffectSlider.oninput = function() {
+          primacyEffectOutput.innerHTML = this.value == 1 ? "Low" : this.value == 2 ? "Mid" : "High";
+        }
+
+        recencyEffectSlider.oninput = function() {
+          recencyEffectOutput.innerHTML = this.value == 1 ? "Low" : this.value == 2 ? "Mid" : "High";
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div class="questions-container">
+      <div class="questions-content">
+        <h1 class="questions-items" id="question">
+          Serial Position Curve, how rehearse time (Primacy Effect) and recall delay (Recency Effect) affect the probability of recall
+        </h1>
+        <form
+          action="#"
+          class="questions-items"
+          id="develop-form"
+          method="POST"
+        >
+          <div class="rule-selection">
+            <label class="rule-text" for="primacyEffect">Primacy Effect</label>
+            <input type="range" id="primacyEffect" name="primacyEffect" min="1" max="3" step="1">
+            <span id="primacyEffectOutput">Mid</span>
+          </div>
+          <div class="rule-selection">
+            <label class="rule-text" for="recencyEffect">Recency Effect</label>
+            <input type="range" id="recencyEffect" name="recencyEffect" min="1" max="3" step="1">
+            <span id="recencyEffectOutput">Mid</span>
+          </div>
+          <br />
+          <button type="submit" name="response-button" id="submit-button">
+            Submit
+          </button>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
